@@ -44,11 +44,11 @@ The app will be available at `http://localhost:5173/`.
 
 ### **Homepage**
 
-![Homepage](./homepage.png)
+![Homepage](./HomePage.png)
 
 ### **Challenge Dashboard**
 
-![Challenge Dashboard](./screenshots/dashboard.png)
+![Challenge Dashboard](./Dashboard.png)
 
 ## 📜 License
 
