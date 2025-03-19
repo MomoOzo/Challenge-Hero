@@ -40,21 +40,11 @@ npm run dev
 
 The app will be available at `http://localhost:5173/`.
 
-## 🎯 Deployment on Netlify
-
-This project is deployed using Netlify. To deploy manually:
-
-1. Push your code to **GitHub**.
-2. Connect your repository to **Netlify**.
-3. Set the build command as `npm run build`.
-4. Set the publish directory to `dist`.
-5. Deploy and enjoy your challenge-tracking experience!
-
 ## 📸 Screenshots
 
 ### **Homepage**
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](./homepage.png)
 
 ### **Challenge Dashboard**
 
