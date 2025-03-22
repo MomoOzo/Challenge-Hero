@@ -13,7 +13,7 @@ A sleek and interactive challenge-tracking app built with Vite + React. Keep tra
 ## 🔧 Technologies Used
 
 - React (Vite)
-- Tailwind CSS
+- module CSS
 - React Router
 - Netlify for Deployment
 
